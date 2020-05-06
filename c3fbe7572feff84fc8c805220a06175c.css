@@ -1,0 +1,26 @@
+/* Code tidied up by ScrapBook */
+.no-display-current, .no-display { display: none; }
+@media only screen and (max-width: 770px) {
+}
+@media only screen and (max-width: 480px) {
+}
+@media not all, not all {
+}
+@media screen and (max-width: 767px) {
+}
+@media screen and (max-width: 640px) {
+}
+@media screen and (max-width: 480px) {
+}
+@keyframes fadeInDownBig {
+0% { opacity: 0; transform: translate3d(0px, -2000px, 0px); }
+100% { opacity: 1; transform: none; }
+}
+@keyframes fadeInDownBig {
+0% { opacity: 0; transform: translate3d(0px, -2000px, 0px); }
+100% { opacity: 1; transform: none; }
+}
+@keyframes fadeInDownBig {
+0% { opacity: 0; transform: translate3d(0px, -2000px, 0px); }
+100% { opacity: 1; transform: none; }
+}
